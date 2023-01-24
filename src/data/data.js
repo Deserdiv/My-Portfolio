@@ -23,7 +23,7 @@ export const data=[
         name:"Youtube Clone",
         image:youtubeclone,
         github:"https://github.com/Deserdiv/React_Youtube-Clone",
-        live:"https://deserdiv-landing.netlify.app/",
+        live:"https://deserdivyoutube.netlify.app/",
     },
     {
         id:4,
