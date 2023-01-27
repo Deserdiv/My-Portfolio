@@ -1,7 +1,9 @@
 import weather from '../assets/projects/weather.png'
 import todo from '../assets/projects/todo.png'
 import youtubeclone from '../assets/projects/youtubeclone.png'
-import landingpage from '../assets/projects/landingpage.png'
+import landingpage from '../assets/projects/landingpage.png
+import quizapp from '../assets/projects/quizapp.png'
+
 
 export const data=[
     {
@@ -28,6 +30,13 @@ export const data=[
     {
         id:4,
         name:"Landing Page",
+        image:landingpage,
+        github:"https://github.com/Deserdiv/React-Landing-Page",
+        live:"https://deserdiv-landing.netlify.app/",
+    },
+     {
+        id:5,
+        name:"Quiz App",
         image:landingpage,
         github:"https://github.com/Deserdiv/React-Landing-Page",
         live:"https://deserdiv-landing.netlify.app/",
