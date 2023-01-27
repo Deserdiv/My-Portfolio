@@ -1,7 +1,7 @@
 import weather from '../assets/projects/weather.png'
 import todo from '../assets/projects/todo.png'
 import youtubeclone from '../assets/projects/youtubeclone.png'
-import landingpage from '../assets/projects/landingpage.png
+import landingpage from '../assets/projects/landingpage.png'
 import quizapp from '../assets/quizapp.png'
 
 
@@ -11,36 +11,37 @@ export const data=[
         name:"Weather App",
         image:weather,
         github:"https://github.com/Deserdiv/React-Weather-App",
-        live:"https://weatherappdeserdiv.netlify.app/",
+        live:"https://benevolent-fudge-1b1741.netlify.app/",
     },
     {
         id:2,
         name:"TO-DO App",
         image:todo,
         github:"https://github.com/Deserdiv/React-To-Do-App",
-        live:"https://tododeserdiv.netlify.app/",
+        live:"https://dainty-souffle-849672.netlify.app/",
     },
     {
         id:3,
         name:"Youtube Clone",
         image:youtubeclone,
         github:"https://github.com/Deserdiv/React_Youtube-Clone",
-        live:"https://deserdivyoutube.netlify.app/",
+        live:"https://dulcet-boba-932229.netlify.app/",
     },
     {
         id:4,
         name:"Landing Page",
         image:landingpage,
-        github:"https://github.com/Deserdiv/quiz-app",
-        live:"https://deserdiv-landing.netlify.app/",
+        github:"https://github.com/Deserdiv/React-Landing-Page",
+        live:"https://sparkling-kleicha-9e9d02.netlify.app/",
     },
-     {
+    {
         id:5,
         name:"Quiz App",
         image:quizapp,
         github:"https://github.com/Deserdiv/React-Landing-Page",
         live:"quiz-appdeserdiv.netlify.app",
     },
+
 
 
 ]
