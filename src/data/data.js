@@ -31,15 +31,15 @@ export const data=[
         id:4,
         name:"Landing Page",
         image:landingpage,
-        github:"https://github.com/Deserdiv/React-Landing-Page",
+        github:"https://github.com/Deserdiv/quiz-app",
         live:"https://deserdiv-landing.netlify.app/",
     },
      {
         id:5,
         name:"Quiz App",
-        image:landingpage,
+        image:quizapp,
         github:"https://github.com/Deserdiv/React-Landing-Page",
-        live:"https://deserdiv-landing.netlify.app/",
+        live:"quiz-appdeserdiv.netlify.app",
     },
 
 
