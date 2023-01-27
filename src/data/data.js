@@ -2,7 +2,7 @@ import weather from '../assets/projects/weather.png'
 import todo from '../assets/projects/todo.png'
 import youtubeclone from '../assets/projects/youtubeclone.png'
 import landingpage from '../assets/projects/landingpage.png
-import quizapp from '../assets/projects/quizapp.png'
+import quizapp from '../assets/quizapp.png'
 
 
 export const data=[
