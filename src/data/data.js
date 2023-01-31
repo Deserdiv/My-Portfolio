@@ -11,7 +11,7 @@ export const data=[
         name:"Weather App",
         image:weather,
         github:"https://github.com/Deserdiv/React-Weather-App",
-        live:"https://benevolent-fudge-1b1741.netlify.app/",
+        live:"https://weatherappdeserdiv.netlify.app/",
     },
     {
         id:2,
