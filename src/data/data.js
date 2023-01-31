@@ -39,7 +39,7 @@ export const data=[
         name:"Quiz App",
         image:quizapp,
         github:"https://github.com/Deserdiv/React-Landing-Page",
-        live:"quizappdeserdiv.netlify.app",
+        live:"https://quizappdeserdiv.netlify.app/",
     },
 
 
